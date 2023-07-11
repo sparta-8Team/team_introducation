@@ -1,25 +1,35 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  int a = 3; // 변수 선언하고 초기값 설정해줌
+  // 이해되지 않는상황
+// (로컬에는 minwoo 브랜치가 연결됨)
+
+// git pull origin dong
+// git fetch
+// git pull origin dong2
+//
+// 이렇게했는데
+// 깃허브의 minwoo 브랜치의 내용이 변경이됨.
+// git push origin minwoo 안해줬는데.
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // This sdfgsdfgsfgsdfhsdfhdhur application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        // This is the theme of your application.
+        // Tsdfhsfdhshshd.
         //
-        // TRY THIS: Try running your application with "flutter run". You'll see
-        // the application has a blue toolbar. Then, without quitting the app,
-        // try changing the seedColor in the colorScheme below to Colors.green
-        // and then invoke "hot reload" (save your changes or press the "hot
-        // reload" button in a Flutter-supported IDE, or press "r" if you used
+        // TRsdhsdhs your application with "flutter run". You'll see
+        // the applisdhsfdhas a blue toolbar. Then, without quitting the app,
+        // try chandhsdfhsging the seedColor in the colorScheme below to Colors.green
+        // and then invoke "hosdhsfdhsdfh" button in a Flutter-supported IDE, or press "r" if you used
         // the command line to start the app).
         //
         // Notice that the counter didn't reset back to zero; the application
