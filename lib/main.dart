@@ -1,25 +1,24 @@
 import 'package:flutter/material.dart';
 
-void main() {
+main() {
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // This sdfgsdfgsfgsdfhsdfhdhur application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        // This is the theme of your application.
+        // Tsdfhsfdhshshd.
         //
-        // TRY THIS: Try running your application with "flutter run". You'll see
-        // the application has a blue toolbar. Then, without quitting the app,
-        // try changing the seedColor in the colorScheme below to Colors.green
-        // and then invoke "hot reload" (save your changes or press the "hot
-        // reload" button in a Flutter-supported IDE, or press "r" if you used
+        // TRsdhsdhs your application with "flutter run". You'll see
+        // the applisdhsfdhas a blue toolbar. Then, without quitting the app,
+        // try chandhsdfhsging the seedColor in the colorScheme below to Colors.green
+        // and then invoke "hosdhsfdhsdfh" button in a Flutter-supported IDE, or press "r" if you used
         // the command line to start the app).
         //
         // Notice that the counter didn't reset back to zero; the application
