@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-main() {
+void main() {
+  int a = 3; // 변수 선언하고 초기값 설정해줌
   runApp(const MyApp());
 }
 
